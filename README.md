@@ -9,7 +9,11 @@ Finance data Analysis of AtliQ Hardwares
 - Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 - Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 - Align financial planning with strategic goals.
-
+## Insights:
+- Net Sales of the products in 2021 have increased 200% than previous year while Gross Margin has reduced 2.3% because of the increase in Cost of Goods.
+- Also, later report shows the monthly profit and net sales for each year 2019-2021. By seeing the sales pattern, peak sales happens in Nov and Dec than other months.
+- By Market, India shows high sales and by profit percentage, Newzealand produces 48% Gross Margin.
+  
 ## Technical Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
 - [x]	Skills to generate a date table using Power Query.
@@ -23,5 +27,5 @@ Finance data Analysis of AtliQ Hardwares
       
  ## Additional Reports created for further analysis
 1. Gross Margin percentage for Fiscal year by sub_zone is created to check on the financial outlook of each sub_zone(https://github.com/arthi-pavadai/Excel-Finance-Analytics/blob/main/Gross%20Margin%20%25%20by%20sub_zone.pdf)
-   
+ 
  
