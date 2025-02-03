@@ -2,9 +2,9 @@
 Finance data Analysis of AtliQ Hardwares
 
 ## Project Objective
-1.  Create Profit and Loss Report by Fiscal Year ()
-2.  Create Profit and Loss Report by Months ()
-3.  Create Profit and Loss Report by Market () 
+1.  Create Profit and Loss Report by Fiscal Year (https://github.com/arthi-pavadai/Excel-Finance-Analytics/blob/main/Profit%20%26%20Loss%20by%20Year.pdf)
+2.  Create Profit and Loss Report by Months (https://github.com/arthi-pavadai/Excel-Finance-Analytics/blob/main/P%20%26%20L%20by%20month.pdf)
+3.  Create Profit and Loss Report by Markets (https://github.com/arthi-pavadai/Excel-Finance-Analytics/blob/main/P%20%26%20L%20Markets%20-%202021.pdf) 
 ## Purpose of Finance Analytics
 - Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 - Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
@@ -22,6 +22,6 @@ Finance data Analysis of AtliQ Hardwares
 - [x]	Optimization of reports through fine-tuning.
       
  ## Additional Reports created for further analysis
-1. Gross Margin percentage for Fiscal year by sub_zone is created to check on the financial outlook of each sub_zone(https://github.com/arthi-pavadai/Excel-Sales-Analytics/blob/main/Division%20Level%20Report.pdf)
+1. Gross Margin percentage for Fiscal year by sub_zone is created to check on the financial outlook of each sub_zone(https://github.com/arthi-pavadai/Excel-Finance-Analytics/blob/main/Gross%20Margin%20%25%20by%20sub_zone.pdf)
    
  
